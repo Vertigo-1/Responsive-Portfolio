@@ -107,7 +107,7 @@ span:not(:first-child) {
   padding: 5px 0px;
   margin: 20px;
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
-  color: gray;
+  color: blue;
 }
 
 span {
@@ -118,8 +118,7 @@ span {
   .banner,
   .box,
   .footer,
-  .body,
-  .submit {
+  .body {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
@@ -127,8 +126,7 @@ span {
   .banner,
   .box,
   .footer,
-  .body,
-  .submit {
+  .body {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
@@ -136,8 +134,7 @@ span {
   .banner,
   .box,
   .footer,
-  .body,
-  .submit {
+  .body {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
