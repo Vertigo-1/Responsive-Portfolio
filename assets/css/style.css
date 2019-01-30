@@ -119,8 +119,7 @@ span {
   .box,
   .footer,
   .body,
-  .img,
-  .input {
+  .submit {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
@@ -129,8 +128,7 @@ span {
   .box,
   .footer,
   .body,
-  .img,
-  .input {
+  .submit {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
@@ -139,8 +137,7 @@ span {
   .box,
   .footer,
   .body,
-  .img,
-  .input {
+  .submit {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
