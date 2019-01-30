@@ -115,17 +115,32 @@ span {
 }
 
 @media screen and (max-width: 980px) {
-  .body {
+  .banner,
+  .box,
+  .footer,
+  .body,
+  .img,
+  .input {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 @media screen and (max-width: 768px) {
-  .body {
+  .banner,
+  .box,
+  .footer,
+  .body,
+  .img,
+  .input {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 @media screen and (max-width: 640px) {
-  .body {
+  .banner,
+  .box,
+  .footer,
+  .body,
+  .img,
+  .input {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
