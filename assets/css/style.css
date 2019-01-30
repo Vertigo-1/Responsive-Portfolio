@@ -115,25 +115,16 @@ span {
 }
 
 @media screen and (max-width: 980px) {
-  .banner,
-  .box,
-  .footer,
   .body {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 @media screen and (max-width: 768px) {
-  .banner,
-  .box,
-  .footer,
   .body {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 @media screen and (max-width: 640px) {
-  .banner,
-  .box,
-  .footer,
   .body {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
